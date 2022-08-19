@@ -1,3 +1,3 @@
-# Spotify Canvas Downloader
+# Spotify Canvas Lyrics
 
-EXT-SpotifyCanvas dependency for EXT-Spotify plugin
+EXT-SpotifyCanvasLyrics dependency for EXT-Spotify plugin
